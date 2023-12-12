@@ -38,3 +38,4 @@ Shaders compiled ok
 - Android Support
 - MacOS Support
 - IOS Support
+- Tiling Support in DirectX11
